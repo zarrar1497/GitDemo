@@ -27,6 +27,7 @@ public class Section_8_A {
 		/* HANDLING STATIC DROPDOWNS */
 
 		/*
+		 *this is git demo test
 		  dropdown.selectByIndex(3);
 		  System.out.println(dropdown.getFirstSelectedOption().getText());
 		  

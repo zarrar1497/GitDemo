@@ -17,6 +17,7 @@ public class Section_2_5 {
 		/* SECTION 5 -CONFIGURING SELENIUM & RUNNING  */
 		
 		System.setProperty("webdriver.chrome.driver","X:\\Automation\\\\chromedriver_win32\\chromedriver.exe");
+		//this is gitdemo test
 		
 		WebDriver driver=new ChromeDriver();
 		
